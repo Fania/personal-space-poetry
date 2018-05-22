@@ -28,3 +28,5 @@ textresults post: 05/22/18 20:21:35 [clouds] tettt
 textresults post: 05/22/18 20:23:16 [clouds] tettt
 textresults post: 05/22/18 20:23:25 [clouds] tettt
 textresults post: 05/22/18 20:23:32 [spoil] tettt
+textresults post: 05/22/18 20:31:21 [love] tettt
+textresults post: 05/22/18 20:37:30 [suffer] tettt
